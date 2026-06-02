@@ -1,0 +1,16 @@
+.list {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+  padding: 0;
+  flex-wrap: wrap;
+}
+.item img {
+  width: 120px;
+  height: 160px;
+  object-fit: cover;
+}
+.character {
+  color: #555;
+  font-size: 0.9rem;
+}

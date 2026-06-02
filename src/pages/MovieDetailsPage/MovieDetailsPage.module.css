@@ -1,0 +1,15 @@
+.main {
+  padding: 12px;
+}
+.container {
+  display: flex;
+  gap: 12px;
+}
+.subnav {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+}
+.active {
+  font-weight: 700;
+}
